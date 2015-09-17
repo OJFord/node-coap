@@ -1,3 +1,7 @@
+**/.*
+!/.*ignore
+!/.*.yml
+
 lib-cov
 *.seed
 *.log
@@ -13,6 +17,4 @@ results
 
 node_modules
 npm-debug.log
-.idea
 docs
-.DS_Store
